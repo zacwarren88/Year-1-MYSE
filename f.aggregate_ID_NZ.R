@@ -14,6 +14,7 @@ f.aggregateID_NZ <- function(folder.IDfiles,
   require(stringr)
   require(lubridate)
   require(zoo)
+  require(tidyr)
   
   files.IDSUMMARY <-
     list.files( #list files
@@ -117,11 +118,11 @@ f.aggregateID_NZ <- function(folder.IDfiles,
   t <- t %>% 
     select(matches("X[0-9]*"), matches("^[A-Z]{6}\\_1$")) %>% #select cols with MLE and Xs
     select(which(colMeans(is.na(.))<1))
-    
-    
-    
-    
-
+  
+  
+  
+  
+  
   
   columnstofill <- grep("X[0-9]*", names(t)) #find columns with X in header
   
@@ -150,7 +151,7 @@ f.aggregateID_NZ <- function(folder.IDfiles,
   names(t)[matches("MYOCIL_1", vars = names(t))] <- "MYCI"
   names(t)[matches("MYOVOL_1", vars = names(t))] <- "MYVO"
   names(t)[matches("MYOTHY_1", vars = names(t))] <- "MYTH"
- 
+  
   #convert from wide to long
   t <- t %>% 
     gather("SPECIES", "MLE_NIGHT", suppressWarnings(one_of(spec.list))) %>%   #convert from wide to long
@@ -163,5 +164,4 @@ f.aggregateID_NZ <- function(folder.IDfiles,
   
   return(output)
 }
-
 
