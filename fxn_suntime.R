@@ -71,7 +71,7 @@ SunTime<-function(ClockTime,day,month,lat,long,timeZone,RS) {
 ##################################
 sunset.calc <- function (lat, long, date, timezone = "UTC") 
 {
-  lat.long <- matrix(c(long, lat), nrow = 1)
+  lat.long <- matrix(c(long, lat), nrow = length(long))
   day <- as.POSIXct(date, tz = timezone)
   sunset <- maptools::sunriset(lat.long, day, direction = "sunset", 
                      POSIXct = TRUE)
@@ -83,7 +83,7 @@ sunset.calc <- function (lat, long, date, timezone = "UTC")
 
 sunrise.calc <- function (lat, long, date, timezone = "UTC") 
 {
-  lat.long <- matrix(c(long, lat), nrow = 1)
+  lat.long <- matrix(c(long, lat), nrow = length(long))
   day <- as.POSIXct(date, tz = timezone)
   sunset <- maptools::sunriset(lat.long, day, direction = "sunrise", 
                      POSIXct = TRUE)
