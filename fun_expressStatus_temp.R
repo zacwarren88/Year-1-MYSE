@@ -32,7 +32,7 @@ f.getON_log_temp <- function(file) {
                     "mean_temp" = NA,
                     "min_temp" = NA,
                     "mid_n_temp" = NA,
-                    "start_temp" = NA)
+                    "last_temp" = NA)
     return(data)
   }
   
@@ -80,7 +80,7 @@ f.getON_log_temp <- function(file) {
         filter(TYPE == "TEMP") %>% 
         filter((hms(TIME) >= hms(start_Time) & hms(TIME) <= hms("23:59:59")) | (hms(TIME) <= hms(end_Time)))
       
-      start.temp <- round(first(as.numeric(mn.temp$Msg1)),0)
+      last.temp <- round(last(as.numeric(mn.temp$Msg1)),0)
       mean.temp <- round(mean(as.numeric(mn.temp$Msg1), na.rm = T),0)
       min.temp <- round(min(as.numeric(mn.temp$Msg1), na.rm = T),0)
       mid.night.temp <- mn.temp %>% 
@@ -130,7 +130,7 @@ f.getON_log_temp <- function(file) {
                           "mean_temp" = mean.temp,
                           "min_temp" = min.temp,
                           "mid_n_temp" = as.numeric(mid.night.temp[1,1]),
-                          "start_temp" = start.temp)
+                          "last_temp" = last.temp)
       data = bind_rows(data,new_data)
     }
     
