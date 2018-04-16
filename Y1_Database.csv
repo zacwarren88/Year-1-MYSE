@@ -1,8 +1,7 @@
 "dep_gridID","dep_quad","det_sn","dep_cardNUM","dep_startDATE","dep_endDATE","dep_latitude","dep_longitude","dep_evelvation","dep_habitat","dep_sitechar","dep_snags","dep_clutterHL","dep_height","dep_name","dep_phone","dep_notes","dep_cltrFront","dep_cltrBack","dep_cltrLeft","dep_cltrRight","dep_cltrUp","dep_cltrDown","dep_deaddet","dep_downdet"
 "NNLH_7","SE",314268,"BAT_202",7/21/2015 0:00:00,7/27/2015 0:00:00,42.60709,97.88371,446,"Mixed Upland","On densley forested hillside in clutter",-1,-1,3.50000,"Baldwin",,"Hike in from Rd. Junction",3,2,1,2,1,1,0,0
 "SMH_1","SE",314299,"BAT_205",7/28/2015 0:00:00,8/3/2015 0:00:00,40.00948,96.65488,391,"Mixed upland. Cottwonood/locust","Clearing with woody understory. 2 mature cottonwoods",0,0,2.80000,"Jergens",,,4,2,2,2,1,1,0,0
-"SPSP_R1
-SPSP_R1","NE",314204,"BAT_038",6/26/2015 0:00:00,7/2/2015 0:00:00,42.72719,103.38596,1089,"Riparian deciduous pasture","In sparse forest near slack water stream",-1,0,4.80000,"Greg Raben (Jim)",,"Permission from mom. Hike through gate from road. On, good",4,3,2,2,4,2,0,0
+"SPSP_R1","NE",314204,"BAT_038",6/26/2015 0:00:00,7/2/2015 0:00:00,42.72719,103.38596,1089,"Riparian deciduous pasture","In sparse forest near slack water stream",-1,0,4.80000,"Greg Raben (Jim)",,"Permission from mom. Hike through gate from road. On, good",4,3,2,2,4,2,0,0
 "SPSP_R1","SW",314250,"BAT_046",6/26/2015 0:00:00,7/2/2015 0:00:00,42.64557,103.37811,1166,"Ditto","In sparse riparian near flowing 1m wide stream",0,0,3.50000,"Dryer",,"Pack at house, walk through pasture; on, good",2,2,1,1,3,1,0,0
 "SPSP_R1","SE",314228,"BAT_032",6/26/2015 0:00:00,7/2/2015 0:00:00,42.64664,103.30893,1284,"Sparse pondo forest/ravine","Deployed in intersection of 2 ravines where burn",-1,0,4.80000,"Ponderosa WMA/NGPC",,"Meets unburned. Park in lot off Squaw Creek Rd. Hike ~1 mile on access road. DO NOT drive on access road. On, good",4,3,4,4,4,2,0,0
 "SPSP_R1","NW",314265,"D2",6/26/2015 0:00:00,7/2/2015 0:00:00,42.69926,103.39387,1123,"Mixed upland treeline","In row between cedar and locust. Pond 500m S",-1,-1,2.40000,,,"Park at house. Hop two fences. Mature cottonwoods 30m South. On, good",4,3,2,2,4,2,0,0
@@ -19,8 +18,7 @@ SPSP_R1","NE",314204,"BAT_038",6/26/2015 0:00:00,7/2/2015 0:00:00,42.72719,103.3
 "TSP_2","SE",314250,"BAT_098",7/21/2015 0:00:00,7/27/2015 0:00:00,42.48153,97.90533,494,"Mix upland","Yard by treeline",-1,0,4.80000,"Stan Shelton",,"Possible bats in house 30m right; Shelton@gpcom.net",4,2,3,3,3,2,0,0
 "WMAMP_1","NE",324717,"J1",7/16/2015 0:00:00,7/22/2015 0:00:00,42.36475,98.49136,581,"Spare riparian","On edge of thin tree row near 10m pond",0,0,4.80000,,,"Park at house, knowck, hike in. Avoid water. Sucks, marshy",4,1,4,3,1,2,0,0
 "WMAMP_1","NW",314113,"BAT_007",7/16/2015 0:00:00,7/22/2015 0:00:00,42.36140,98.53363,597,"Mixed tree rows","On edge monitoring cow path between rows",-1,-1,2.80000,"Carol Keys",,"Water puddle present",3,1,1,1,1,1,0,0
-"WMAMP_1
-WMAMP_1","SW",314248,"G3",7/16/2015 0:00:00,7/22/2015 0:00:00,42.31995,98.53672,613,"Mixed tree row","In gap between cedar row",0,-1,4.80000,"Sholes",,"Park at old trailer with confederate flag",4,2,1,2,1,2,0,0
+"WMAMP_1","SW",314248,"G3",7/16/2015 0:00:00,7/22/2015 0:00:00,42.31995,98.53672,613,"Mixed tree row","In gap between cedar row",0,-1,4.80000,"Sholes",,"Park at old trailer with confederate flag",4,2,1,2,1,2,0,0
 "WMAMP_1","SE",314073,"D4",7/16/2015 0:00:00,7/22/2015 0:00:00,42.31889,98.51351,604,"Deciduous tree row dense","In closed clearing, understory dead and down",0,-1,2.80000,"Sholes",,"Knock on door before pickup",3,2,2,1,2,1,0,0
 "WMAMP_2","NW",314120,"BAT_021",7/15/2015 0:00:00,7/21/2015 0:00:00,42.52037,99.07700,653,"Mixed upland/cottonwood","Small forested clearing amond dense",-1,0,4.80000,"Dvorak",,,3,2,1,2,3,2,0,0
 "WMAMP_2","NE",314109,"B3",7/15/2015 0:00:00,7/21/2015 0:00:00,42.53809,99.01009,639,"Mixed upland","Small forested patch",-1,0,4.80000,,,"Cattle yard behind; damp inside",3,4,2,2,4,1,0,0
@@ -95,8 +93,7 @@ WMAMP_1","SW",314248,"G3",7/16/2015 0:00:00,7/22/2015 0:00:00,42.31995,98.53672,
 "HT_2","NE",314217,"BAT_031",7/15/2015 0:00:00,7/21/2015 0:00:00,42.69878,99.03288,626,"Mix upland","Trees in horse pasture",-1,0,5.00000,,,"Buggy",4,1,1,1,1,2,0,0
 "HT_2","SW",314114,"BAT_023",7/15/2015 0:00:00,7/21/2015 0:00:00,42.64932,99.05301,640,"Mixed riparian","Small cleariing in mature forested patch",-1,0,4.80000,,,"Dead",3,1,4,3,4,2,-1,0
 "HT_2","SE",314119,"N4",7/15/2015 0:00:00,7/21/2015 0:00:00,42.65160,99.03128,642,"Deciduous upland","2 track opening in tree patch",-1,0,4.80000,,,"Near building",3,1,3,1,4,2,0,0
-"HT_R1
-HTR_1","NW",314078,"C3",7/18/2015 0:00:00,7/24/2015 0:00:00,42.25621,98.31017,559,"Mix lowland","Small forest gap",-1,-1,4.00000,"Hinrichsen",,"Buggy",2,1,1,2,1,1,0,0
+"HT_R1","NW",314078,"C3",7/18/2015 0:00:00,7/24/2015 0:00:00,42.25621,98.31017,559,"Mix lowland","Small forest gap",-1,-1,4.00000,"Hinrichsen",,"Buggy",2,1,1,2,1,1,0,0
 "HT_R1","NE",314289,"BAT_035",7/18/2015 0:00:00,7/24/2015 0:00:00,42.26944,98.26279,589,"Deciduous upland","Forest in farmland",-1,0,5.00000,"Loretta Napier",,"2m understory, buggy, 85835 512 Ave, Ewing, NE 68735",4,1,1,1,2,2,0,0
 "HT_R1","SW",314253,"BAT_033",7/18/2015 0:00:00,7/24/2015 0:00:00,42.23189,98.30444,567,"Mix riparian","Trees between pasture and river",-1,0,5.00000,"Tyler Fry",,"River 40m right, Fryler1@gmail.com",4,3,2,1,3,2,0,0
 "HT_R1","SE",314299,"BAT_207",7/18/2015 0:00:00,7/24/2015 0:00:00,42.22271,98.26846,550,"Riparian oak","Oaks between river and lake/slough",-1,0,5.00000,"Ken Volle",,"Bat pictured in shed, 85533 512 Ave, Clearwater, NE 68726",4,1,1,1,2,2,0,0
@@ -120,8 +117,7 @@ HTR_1","NW",314078,"C3",7/18/2015 0:00:00,7/24/2015 0:00:00,42.25621,98.31017,55
 "LA_R13","NE",314240,"BAT_019",7/2/2015 0:00:00,7/8/2015 0:00:00,42.64230,100.70561,875,"Mix riparian","Mix near small stream/pond",-1,0,5.00000,"Tom Davis",,"1m understory",2,1,1,1,4,1,0,0
 "LA_R13","SE",314073,"994D",7/2/2015 0:00:00,7/8/2015 0:00:00,42.61254,100.72097,892,"Mix upland","Middle of forest gap under canopy",-1,0,5.00000,"Tom Davis",,,4,3,1,1,2,2,0,0
 "LA_R14","NW",314251,"I2",6/27/2015 0:00:00,7/3/2015 0:00:00,42.98935,101.75394,1006,"Cedar upland","Treeline in middle of pasture",0,-1,4.80000,"Jason Fairhead",,"Off; good",3,1,1,2,4,2,-1,0
-"LA_R14
-LA_R14","NE",314150,"N1",6/27/2015 0:00:00,7/3/2015 0:00:00,42.98199,101.71664,992,"Mixed upland","Old pasture",-1,0,4.80000,"Leigh Fairhead",,"On, good",3,3,2,3,4,2,0,0
+"LA_R14","NE",314150,"N1",6/27/2015 0:00:00,7/3/2015 0:00:00,42.98199,101.71664,992,"Mixed upland","Old pasture",-1,0,4.80000,"Leigh Fairhead",,"On, good",3,3,2,3,4,2,0,0
 "LA_R14","SE",314305,"BAT_023",6/27/2015 0:00:00,7/3/2015 0:00:00,42.94922,101.71088,992,"Deciduous riparian","Wide flowing creek <2m away",-1,0,4.80000,"Jason Fairhead",,"On, good",3,4,4,4,4,2,0,0
 "LA_R14","SW",314226,"J4",6/27/2015 0:00:00,7/3/2015 0:00:00,42.90236,101.78456,0,"Deciduous upland","Yard with trees",-1,0,4.80000,,,"On, good; no elevation data entered",3,1,2,2,2,2,0,0
 "LaGDH_1","NW",314105,"988C",7/24/2015 0:00:00,7/30/2015 0:00:00,40.22264,96.25203,384,"Deciduous upland","Locous grove",-1,0,2.50000,"Paul Rohrbaugh",,"Paulrohrbaugh@windstream.net",3,1,1,1,1,2,0,0
@@ -291,8 +287,7 @@ Cedar slope","Small clearing on steep slope. Crags for roots.",-1,0,2.50000,"Buf
 "RSP_R2","SE",314271,"BAT_028",8/3/2015 0:00:00,8/9/2015 0:00:00,40.52943,101.46624,946,"Mixed upland patch","Between cedar tree row and cottonwood patch",-1,-1,3.50000,"McClinicke?",,,4,2,1,1,2,2,0,0
 "RSP_R4","NW",314204,"C4",6/12/2015 0:00:00,6/18/2015 0:00:00,40.91633,101.72382,1051,"Elm/cedar patch","Clearing in forested yard",-1,0,3.00000,"Mr. White",,"Knock when picking up; off, water inside",3,1,1,1,2,1,-1,0
 "RSP_R4","SW",314070,"M2",6/12/2015 0:00:00,6/18/2015 0:00:00,40.84387,101.76056,1057,"Edge of cedar and elm","Edge of ag near standing pool of water",0,0,3.50000,"Mr. Kielbasa",,"Elderly mother home. Just grab it. On",3,4,4,1,4,1,0,0
-"RSP_R4
-RSP_R4","SE",314271,"J1",6/12/2015 0:00:00,6/18/2015 0:00:00,40.87362,101.68696,1032,"Mixed wood row between ag","Corridor between dead elm and live cedar/locust",-1,0,2.40000,"Richards",,"on",4,2,2,1,2,1,0,0
+"RSP_R4","SE",314271,"J1",6/12/2015 0:00:00,6/18/2015 0:00:00,40.87362,101.68696,1032,"Mixed wood row between ag","Corridor between dead elm and live cedar/locust",-1,0,2.40000,"Richards",,"on",4,2,2,1,2,1,0,0
 "SaST_R3","NW",314078,"BAT_040",6/24/2015 0:00:00,6/30/2015 0:00:00,42.56301,103.02746,1292,"Mix upland","Open patch in windbreak",-1,0,2.50000,,,"Off, mic good",4,3,3,3,4,1,-1,0
 "SaST_R3","NE",314293,"F2",6/24/2015 0:00:00,6/30/2015 0:00:00,42.48674,102.94948,1190,"Riparian cottonwood","Cottonwoods on Niobrara River",-1,0,4.00000,"Rick Horstman","(308) 760-0138","15-20m tall cottonwoods, 1m understory, on and mic good; Rhorstman@bbc.net",4,3,3,3,3,2,0,0
 "SaST_R3","SW",314269,"D1",6/24/2015 0:00:00,6/30/2015 0:00:00,42.49281,103.00630,1203,"Riparian cottonwood","Cottonwood pasture",-1,0,2.50000,"Rodger McCoy","(308) 760-9205","on, mic good",4,4,4,3,4,1,0,0
